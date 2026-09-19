@@ -1,0 +1,7 @@
+{
+  "name": "Kangeyam Cattle AI",
+  "description": "Intelligent Decision & Recommendation Assistant for Kangeyam cattle farmers with bilingual Tamil/English support, uncertainty-aware reasoning, What-If simulation, and grounded voice assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
